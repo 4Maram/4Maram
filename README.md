@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Maram
-- I Love Learning 
+👋 Hi, It's Maram,
+- Data Science, Machine Learning, Data Analysis
+- Endless of developmental learning
 
 
 <!---
